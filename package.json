@@ -1,0 +1,17 @@
+{
+  "name": "xxi-api",
+  "version": "1.0.0",
+  "description": "xxi theatre unofficial api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon xxi"
+  },
+  "author": "NovaAlFarisi",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "nodemon": "^2.0.2",
+    "request": "^2.88.2"
+  }
+}
